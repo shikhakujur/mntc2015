@@ -207,9 +207,9 @@ header .lead-text .button:hover{color:#fff; background:#ef3c3c; border:1px solid
 header nav{ width:100%; margin:0; }
 header nav .navbar-nav{ float:right; padding:0;}
 header nav .navbar-header .logo{ float:left; max-width: 100%; margin-left: 10px; margin-top: 10px; }
-header nav .navbar-nav li{ float:left; padding:25px; list-style:none;}
+header nav .navbar-nav li{ float:left; padding:0; list-style:none;}
 header nav .navbar-nav li:last-child{ margin-right:0;}
-header nav .navbar-nav li a{ float:left; color:#fff !important; font-size:13px; font-weight:700; padding:0; line-height:normal;}
+header nav .navbar-nav li a{ float:left; color:#fff !important; font-size:13px; font-weight:700; padding:25px; line-height:normal;}
 header nav .navbar-nav li:hover{ background-color:#27AE60; color:#ef3c3c; transition: background, .7s;}
 header .navbar-inverse{ background:none; border:none;}
 header .navbar{ line-height:normal; margin-bottom:0;}
