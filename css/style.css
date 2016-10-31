@@ -296,8 +296,8 @@ header .navbar .container{ height: 50px; width: 100%; }
 .team-members{ width:100%; }
 .team-members-section-padding{ padding: 50px 0; }
 .team-members .container{ position:relative; z-index:2; width: 100%; }
-.team-members .member1{ width: 120px; margin: 11px; vertical-align: top; display: inline-block; }
-.team-members .member2{ width: 110px; margin: 11px; vertical-align: top; display: inline-block; }
+.team-members .member1{ width: 110px; margin: 11px; vertical-align: top; display: inline-block; }
+.team-members .member2{ width: 130px; margin: 11px; vertical-align: top; display: inline-block; }
 .team-members .member3{ width: 100px; margin: 11px; vertical-align: top; display: inline-block; }
 .team-members img{ width:90px; height:90px; border-radius:50%; }
 .team-members h4{ margin-bottom:0; line-height:20px; color: #fff; font-size: 12px; }

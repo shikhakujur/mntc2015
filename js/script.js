@@ -20,8 +20,8 @@ $(document).ready(function() {
 	
 	// Header particles effect	
 	$('#particles').particleground({
-		dotColor: '#666',
-		lineColor: '#666'
+		dotColor: '#ddd',
+		lineColor: '#ddd'
 	  });
 	 
 	
